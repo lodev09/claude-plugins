@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lodev09",
+  "description": "Claude Code plugins by lodev09",
+  "owner": {
+    "name": "Jovanni Lo",
+    "url": "https://github.com/lodev09"
+  },
+  "plugins": [
+    {
+      "name": "claude-sounds",
+      "description": "Sound feedback for Claude Code — plays Warcraft-style voice lines on session events",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jovanni Lo"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lodev09/claude-sounds.git"
+      },
+      "category": "productivity"
+    }
+  ]
+}
