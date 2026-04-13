@@ -15,5 +15,5 @@ claude plugin marketplace add lodev09/claude-plugins
 Sound feedback for Claude Code — plays Warcraft-style voice lines on session events.
 
 ```sh
-claude plugin install claude-sounds@lodev09
+claude plugin install sounds@lodev09
 ```

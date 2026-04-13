@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "claude-sounds",
+      "name": "sounds",
       "description": "Sound feedback for Claude Code — plays Warcraft-style voice lines on session events",
       "version": "1.0.0",
       "author": {
