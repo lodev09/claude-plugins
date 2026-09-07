@@ -3,13 +3,13 @@
   "description": "Claude Code plugins by lodev09",
   "owner": {
     "name": "Jovanni Lo",
-    "url": "https://github.com/lodev09"
+    "url": "https://lodev09.com"
   },
   "plugins": [
     {
       "name": "sounds",
       "description": "Sound feedback for Claude Code — plays Warcraft-style voice lines on session events",
-      "version": "1.0.4",
+      "version": "1.0.6",
       "author": {
         "name": "Jovanni Lo"
       },
